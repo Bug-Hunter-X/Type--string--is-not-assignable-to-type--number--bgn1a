@@ -1,0 +1,1 @@
+This repository contains a simple TypeScript program demonstrating a common type error: assigning a string to a number type.  The `bug.ts` file shows the error, while `bugSolution.ts` provides the corrected code.  This example highlights the importance of type checking in TypeScript and how to effectively address type-related issues.
